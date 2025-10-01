@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section className="text-lg">
+    <section className="text-base">
       <p className="text-gray-300 leading-relaxed">
         I am currently in my sixth semester of my Software Engineering program, which has allowed me to develop a solid foundation in programming principles, system design, and the development of technological solutions. I am looking for job opportunities that will allow me to apply my knowledge, gain professional experience, and grow within the field of software engineering.
       </p>
