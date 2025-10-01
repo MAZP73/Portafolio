@@ -36,7 +36,7 @@ export default function About() {
 
       <p className="mt-4">
         <a
-          href="URL_DE_TU_CV.pdf"
+          href="https://drive.google.com/file/d/1HKhYSXoqTt6RF62JTl7uxJZq9j_I_ydU/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="text-green-600 hover:underline"
