@@ -1,6 +1,6 @@
 export const experiences = [
   {
-    company: "Duzam Ingeniria S.A.S",
+    company: "Duzam Ingenieria S.A.S",
     role: "Development Assistant-freelance",
     date: "23/01/2025-21/06/2025",
     description:
